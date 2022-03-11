@@ -1,4 +1,3 @@
-
-def calcularsueldo(salario, dias):     
- sueldopagar = salario/30 * dias
- return sueldopagar
+def calcularsueldo(salario, diastrabajados):
+    sueldoPagar = salario/30 * diastrabajados
+    return sueldoPagar
